@@ -1,6 +1,6 @@
 ### Technologies used JAVASCRIPT
 
-<h1 style="text-align: center; font-weight: bold;">Simpli</h1>
+<h1 style="text-align: center; font-weight: bold;">Slide</h1>
 
 ## Demo 📸
 
