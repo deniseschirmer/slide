@@ -28,22 +28,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ### 🎲 Rodando o projeto
 
-```bash
+
 # Clone este repositório
 $ git clone https://github.com/deniseschirmer/slide
 
-# Acesse a pasta do projeto no terminal/cmd
-
-# Instale as dependências
-$ yarn
-# ou
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ yarn dev
-# ou
-$ npm run dev
-```
 
 
 
